@@ -1,0 +1,33 @@
+# Secrets & environment variables (NEVER upload passwords/keys)
+.env
+.env.*
+!.env.example
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Frontend (Next.js / Node.js)
+node_modules/
+.next/
+out/
+dist/
+*.log
+
+# Large raw geospatial/OSM files (keep folder, ignore big files inside)
+data/raw/*
+!data/raw/.gitkeep
+*.pbf
+*.osrm*
+*.zip
+
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
