@@ -1,0 +1,78 @@
+[
+  {
+    "source_record_id": "OSM-NODE-1001",
+    "source_name": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1001",
+    "access_classification": "OPEN",
+    "fetched_at": "2026-11-27T14:00:00Z",
+    "station_name": "  Tata Power - Hinjewadi Phase 1 IT Park  ",
+    "operator": "tata power",
+    "latitude": 18.5913,
+    "longitude": 73.7389,
+    "connectors": [
+      "CCS2",
+      "Type 2"
+    ],
+    "reported_status": "operational"
+  },
+  {
+    "source_record_id": "EVY-PUNE-2001",
+    "source_name": "BEE EV-Yatra",
+    "source_url": "https://evyatra.beeindia.gov.in",
+    "access_classification": "CONDITIONAL",
+    "fetched_at": "2026-11-27T14:05:00Z",
+    "station_name": "Tata Power Charging Hub Hinjewadi Ph-1",
+    "operator": "Tata Power EZ Charge",
+    "latitude": 18.59145,
+    "longitude": 73.73905,
+    "connectors": [
+      "ccs-2"
+    ],
+    "reported_status": "active"
+  },
+  {
+    "source_record_id": "OSM-NODE-1002",
+    "source_name": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1002",
+    "access_classification": "OPEN",
+    "fetched_at": "2026-11-27T14:00:00Z",
+    "station_name": "Statiq Fast Charger - Viman Nagar Phoenix",
+    "operator": "statiq",
+    "latitude": 18.5621,
+    "longitude": 73.9167,
+    "connectors": [
+      "CCS2"
+    ],
+    "reported_status": "operational"
+  },
+  {
+    "source_record_id": "EVY-PUNE-2002",
+    "source_name": "BEE EV-Yatra",
+    "source_url": "https://evyatra.beeindia.gov.in",
+    "access_classification": "CONDITIONAL",
+    "fetched_at": "2026-11-27T14:05:00Z",
+    "station_name": "Swapped Coordinate Test Station",
+    "operator": "Jio-bp pulse",
+    "latitude": 73.8567,
+    "longitude": 18.5204,
+    "connectors": [
+      "Type-2"
+    ],
+    "reported_status": null
+  },
+  {
+    "source_record_id": "OSM-NODE-1003",
+    "source_name": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1003",
+    "access_classification": "OPEN",
+    "fetched_at": "2026-11-27T14:00:00Z",
+    "station_name": "Outside Pune District Boundary Station",
+    "operator": "Ather Grid",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "connectors": [
+      "LEVDC"
+    ],
+    "reported_status": "operational"
+  }
+]
